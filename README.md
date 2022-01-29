@@ -6,6 +6,6 @@ Analysts across industries rely on data from the United States Census Bureau in 
 
 *tidycensus* is an R package that allows users to interface with a select number of the US Census Bureau’s data APIs and return tidyverse-ready data frames, optionally with simple feature geometry included. Install from CRAN with the following command:
 
-```
+```R
 install.packages("tidycensus")
 ```
